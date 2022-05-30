@@ -1,0 +1,15 @@
+<file>
+	<title>skills.xml</title>
+		<softSkills>
+			<SoftSkill>Переговоры</SoftSkill>
+			<SoftSkill>Креативность</SoftSkill>
+			<SoftSkill>Способность учиться</SoftSkill>
+			<SoftSkill>Командная работа</SoftSkill>
+		</softSkills>
+		<hardSkills>
+			<hardSkill>Postman</hardSkill>
+			<hardSkill>Charles</hardSkill>
+			<hardSkill>Fiddler</hardSkill>
+			<hardSkill>Jmeter</hardSkill>
+		</hardSkills>
+</file>
