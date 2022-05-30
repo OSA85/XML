@@ -1,0 +1,9 @@
+<file>
+	<title>new.xml</title>
+		<firstName>Сергей</firstName>
+		<lastName>Обидин</lastName>
+		<age>36</age>
+		<countPets>1</countPets>
+		<futureSalaryInDollars>10000</futureSalaryInDollars>
+</file>
+
