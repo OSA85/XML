@@ -1,1 +1,21 @@
-
+<file>
+  <title>bug_report.xml</title>
+  <ID>A1</ID>
+  <Title>При увеличении высоты виджета, на чистом экране телефона до размера большего чем 4 ячейки, высота отображается некорректно</Title>
+  <Project>AndroidGridTest</Project>
+  <Steps>
+    <Step>1. Зайти в приложение</Step>
+    <Step>2. Нажать добавить виджет</Step>
+    <Step>3. Выйти из приложения</Step>
+    <Step>4. Перенести виджет на чистый экран</Step>
+    <Step>5. Увеличить его высоту до 4 ячеек</Step>
+  </Steps>
+  <Enviroment>Samsung galaxy S 20 FE (SM-G780G/DSM), Android 12(One UI 4.1), v.G780GXXU3CVC2</Enviroment>
+  <Actual result>Высота виджета отображается не корректно</Actual result>
+  <Expected result>Высота виджета отображается корректно, согласно ТЗ</Expected result>
+  <Severity>Trivial</Severity>
+  <Priority>Low</Priority>
+  <Status>Open</Status>
+  <Author>Обидин Сергей</Author>
+  <Attachments>ссылка_на_картинку_или_видео_с_багом</Attachments>
+</file>
